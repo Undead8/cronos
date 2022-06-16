@@ -164,3 +164,5 @@ replace (
 
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
+
+replace github.com/tendermint/tendermint => github.com/Undead8/tendermint v0.34.20-0.20220616150009-f7810640ff62
